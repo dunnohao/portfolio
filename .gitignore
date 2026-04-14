@@ -1,0 +1,18 @@
+# macOS Folder config
+.DS_Store
+*/.DS_Store
+
+# Portfolio CMS Engine (Hidden from GitHub)
+build.py
+serve.py
+start.command
+about.txt
+data/
+
+# Optionally ignore high-res formats if you accidentally drop them in
+*.raw
+*.ARW
+*.CR2
+*.NEF
+*.psd
+*.tiff
